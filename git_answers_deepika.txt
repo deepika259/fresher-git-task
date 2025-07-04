@@ -1,0 +1,29 @@
+Git Task - fresher-git-task
+By: Deepika
+
+Q2. Network Information Task
+
+1. Private IP Address: 192.168.1.5
+2. Public IP Address: 49.204.120.10
+3. MAC Address: 00-1A-2B-3C-4D-5E
+4. Commands Used:
+   - Private IP: ipconfig (Windows)
+   - Public IP: curl ifconfig.me
+   - MAC: ipconfig /all
+
+Q3. Internet Connectivity Check
+
+1. Command to check internet access:
+   ping -n 1 www.google.com (Windows)
+
+2. Command to check if a website is reachable:
+   ping www.google.com
+
+3. Command to show network configuration:
+   ipconfig
+
+4. How to test public IP:
+   curl ifconfig.me or open https://whatismyipaddress.com
+
+5. Continuous ping command:
+   ping -t www.google.com
